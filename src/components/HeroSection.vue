@@ -59,7 +59,7 @@
     }
 
 
-    @media (max-width: 768px) { /* Target screens smaller than 768px (typical mobile breakpoint) */
+    @media (max-width: 768px) { 
 
       .main {
           background-image: url('../assets/imgs/movil-hero.png'); /* Use a smaller background image for mobile */
@@ -67,11 +67,11 @@
       }
   
       .figure {
-          margin-top: 20px; /* Adjust margin for mobile */
+          margin-top: 20px; 
       }
   
       blockquote {
-          font-size: 1.5rem; /* Reduce font size for mobile */
+          font-size: 1.5rem;
           justify-content: center;
           align-content: center;
           margin-right: 20px;
